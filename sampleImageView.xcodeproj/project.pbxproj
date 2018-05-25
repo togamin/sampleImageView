@@ -13,7 +13,10 @@
 		B7B3F7F520B7D286002CDD61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F7F420B7D286002CDD61 /* Assets.xcassets */; };
 		B7B3F7F820B7D286002CDD61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F7F620B7D286002CDD61 /* LaunchScreen.storyboard */; };
 		B7B3F80420B7D410002CDD61 /* togaminnnn01.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80220B7D410002CDD61 /* togaminnnn01.png */; };
-		B7B3F80520B7D410002CDD61 /* togaminnnn02.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80320B7D410002CDD61 /* togaminnnn02.png */; };
+		B7B3F80920B7E6DC002CDD61 /* togaminnnn03.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80820B7E6DC002CDD61 /* togaminnnn03.png */; };
+		B7B3F80B20B7E799002CDD61 /* togaminnnn04.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80A20B7E799002CDD61 /* togaminnnn04.png */; };
+		B7B3F80D20B7E7D4002CDD61 /* togaminnnn02.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80C20B7E7D4002CDD61 /* togaminnnn02.png */; };
+		B7B3F80F20B7E809002CDD61 /* togaminnnn00.png in Resources */ = {isa = PBXBuildFile; fileRef = B7B3F80E20B7E809002CDD61 /* togaminnnn00.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +28,10 @@
 		B7B3F7F720B7D286002CDD61 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B7B3F7F920B7D286002CDD61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B7B3F80220B7D410002CDD61 /* togaminnnn01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn01.png; sourceTree = "<group>"; };
-		B7B3F80320B7D410002CDD61 /* togaminnnn02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn02.png; sourceTree = "<group>"; };
+		B7B3F80820B7E6DC002CDD61 /* togaminnnn03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn03.png; sourceTree = "<group>"; };
+		B7B3F80A20B7E799002CDD61 /* togaminnnn04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn04.png; sourceTree = "<group>"; };
+		B7B3F80C20B7E7D4002CDD61 /* togaminnnn02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn02.png; sourceTree = "<group>"; };
+		B7B3F80E20B7E809002CDD61 /* togaminnnn00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = togaminnnn00.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,7 +79,10 @@
 			isa = PBXGroup;
 			children = (
 				B7B3F80220B7D410002CDD61 /* togaminnnn01.png */,
-				B7B3F80320B7D410002CDD61 /* togaminnnn02.png */,
+				B7B3F80A20B7E799002CDD61 /* togaminnnn04.png */,
+				B7B3F80C20B7E7D4002CDD61 /* togaminnnn02.png */,
+				B7B3F80E20B7E809002CDD61 /* togaminnnn00.png */,
+				B7B3F80820B7E6DC002CDD61 /* togaminnnn03.png */,
 			);
 			path = images;
 			sourceTree = "<group>";
@@ -136,11 +145,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7B3F80520B7D410002CDD61 /* togaminnnn02.png in Resources */,
+				B7B3F80B20B7E799002CDD61 /* togaminnnn04.png in Resources */,
+				B7B3F80920B7E6DC002CDD61 /* togaminnnn03.png in Resources */,
 				B7B3F80420B7D410002CDD61 /* togaminnnn01.png in Resources */,
 				B7B3F7F820B7D286002CDD61 /* LaunchScreen.storyboard in Resources */,
+				B7B3F80F20B7E809002CDD61 /* togaminnnn00.png in Resources */,
 				B7B3F7F520B7D286002CDD61 /* Assets.xcassets in Resources */,
 				B7B3F7F320B7D281002CDD61 /* Main.storyboard in Resources */,
+				B7B3F80D20B7E7D4002CDD61 /* togaminnnn02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

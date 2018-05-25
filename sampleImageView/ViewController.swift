@@ -19,18 +19,13 @@ class ViewController: UIViewController {
         myImageView.image = UIImage(named:"togaminnnn02.png")
     }
 
+
     
-    
-    @IBAction func mybutton01(_ sender: UIButton) {
-        myImageView.image = UIImage(named:"togaminnnn01.png")
+    @IBAction func imgbutton(_ sender: UIButton) {
+        var randomNum = arc4random_uniform(5)
+        myImageView.image = UIImage(named:"togaminnnn0\(randomNum)")
+        print(randomNum)
     }
-    
-    
-    @IBAction func mybutton02(_ sender: UIButton) {
-        myImageView.image = UIImage(named:"togaminnnn02.png")
-    }
-    
-    
     
     
     
